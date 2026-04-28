@@ -21,7 +21,7 @@ A structured, scope-bound reconnaissance tool that orchestrates Nmap, Gobuster, 
 ### Installation
 ```bash
 # Clone the repo
-git clone https://github.com/wajudev/autorecon-x.git
+git clone https://github.com/olawajudev/autorecon-x.git
 cd autorecon-x
 
 # Install dependencies (if any)
